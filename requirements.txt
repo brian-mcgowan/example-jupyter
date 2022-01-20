@@ -1,2 +1,3 @@
+black==21.12b0
 jupyterlab==3.2.8
 
